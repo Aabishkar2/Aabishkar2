@@ -15,6 +15,13 @@ const aabishkar = {
   code: [Javascript, Typescript, Python],
   tools: [Node, AWS, Redis, ElasticSearch, Jest, Docker, MySQL, Postgres],
   architecture: ["microservices", "event-driven", "design system pattern"],
+  experience: {
+    years: '4+',
+  },
+  education: {
+    degree: 'Computer Science',
+    university: 'University of Wolverhampton',
+  }
 }
 ```
 
