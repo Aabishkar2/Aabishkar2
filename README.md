@@ -1,16 +1,23 @@
-### Hi there 👋
+<h2> Hi, I'm Aabishkar Wagle! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<img align='right' src="https://c.tenor.com/N-fJ0Azh_ykAAAAM/cat-computer.gif" width="230">
+<p><em>Software Enginner | DevOps Enthusiast</em></p>
 
-<!--
-**Aabishkar2/Aabishkar2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Twitter: aabiseverywhere](https://img.shields.io/twitter/follow/aabiseverywhere?style=social)](https://twitter.com/aabiseverywhere)
+[![Linkedin: aabis7](https://img.shields.io/badge/-aabis7-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aabis7/)](https://www.linkedin.com/in/thaianebraga/)
+[![GitHub Thaiane](https://img.shields.io/github/followers/Aabishkar2?label=follow&style=social)](https://github.com/Aabishkar2)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### <img src="https://sedhai.com/web/wp-content/uploads/2013/02/Animated-Flag-Nepal.gif" width="50"> A little more about me...  
+
+```javascript
+const aabishkar = {
+  pronouns: "he" | "him",
+  code: [Javascript, Typescript, Python],
+  tools: [Node, AWS, Redis, ElasticSearch, Jest, Docker, MySQL, Postgres],
+  architecture: ["microservices", "event-driven", "design system pattern"],
+}
+```
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to talk to you!</b> :)</em>
+
+---
