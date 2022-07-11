@@ -2,7 +2,7 @@
 <img align='right' src="https://c.tenor.com/N-fJ0Azh_ykAAAAM/cat-computer.gif" width="230">
 <p><em>Software Enginner | DevOps Enthusiast</em></p>
 
-[![Twitter: aabiseverywhere](https://img.shields.io/twitter/follow/aabiseverywhere?style=social)](https://twitter.com/aabiseverywhere)
+[![Twitter: aabiseverywhere](https://img.shields.io/twitter/follow/aabiscodes?style=social)](https://twitter.com/aabiseverywhere)
 [![Linkedin: aabis7](https://img.shields.io/badge/-aabis7-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aabis7/)](https://www.linkedin.com/in/thaianebraga/)
 [![GitHub Thaiane](https://img.shields.io/github/followers/Aabishkar2?label=follow&style=social)](https://github.com/Aabishkar2)
 
