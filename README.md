@@ -16,7 +16,7 @@ const aabishkar = {
   tools: [Node, AWS, Redis, ElasticSearch, Jest, Docker, MySQL, Postgres],
   architecture: ["microservices", "event-driven", "design system pattern"],
   experience: {
-    years: '4+',
+    years: '5+',
   },
   education: {
     degree: 'Computer Science',
