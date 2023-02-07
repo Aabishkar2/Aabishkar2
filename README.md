@@ -2,9 +2,9 @@
 <img align='right' src="https://c.tenor.com/N-fJ0Azh_ykAAAAM/cat-computer.gif" width="230">
 <p><em>Software Enginner | DevOps Enthusiast</em></p>
 
-[![Twitter: aabiseverywhere](https://img.shields.io/twitter/follow/aabiscodes?style=social)](https://twitter.com/aabiseverywhere)
-[![Linkedin: aabis7](https://img.shields.io/badge/-aabis7-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aabis7/)](https://www.linkedin.com/in/thaianebraga/)
-[![GitHub Thaiane](https://img.shields.io/github/followers/Aabishkar2?label=follow&style=social)](https://github.com/Aabishkar2)
+[![Twitter: aabiscodes](https://img.shields.io/twitter/follow/aabiscodes?style=social)](https://twitter.com/aabiscodes)
+[![Linkedin: Aabishkar Wagle](https://img.shields.io/badge/-aabis7-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aabis7/)](https://www.linkedin.com/in/aabis7/)
+[![GitHub Aabishkar](https://img.shields.io/github/followers/Aabishkar2?label=follow&style=social)](https://github.com/Aabishkar2)
 
 
 ### <img src="https://sedhai.com/web/wp-content/uploads/2013/02/Animated-Flag-Nepal.gif" width="50"> A little more about me...  
@@ -13,7 +13,7 @@
 const aabishkar = {
   pronouns: "he" | "him",
   code: [Javascript, Typescript, Python],
-  tools: [Node, AWS, Redis, ElasticSearch, Jest, Docker, MySQL, Postgres],
+  tools: [Node, React, NextJS, Tailwind, AWS, Redis, ElasticSearch, Jest, Docker, MySQL, Postgres],
   architecture: ["microservices", "event-driven", "design system pattern"],
   experience: {
     years: '5+',
