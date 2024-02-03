@@ -15,11 +15,11 @@
 
 ---
 
-## Let's get to know each other! 
+## Let's unlock the future, together!
 
-I'm Aabishkar, a **passionate software engineer** with **5+ years of experience** building and deploying robust applications. I'm particularly fascinated by the **DevOps realm**, where I enjoy streamlining workflows and automating tasks to ensure efficient development and delivery.
+I'm Aabishkar, a **passionate software engineer with 6+ years of experience** building and securing robust applications. My journey has led me to explore the exciting realms of **Software Engineering, DevOps, AI, and cloud security**, where I find immense satisfaction in streamlining workflows, automating tasks, and safeguarding the digital landscape.
 
-I'm fluent in **JavaScript, TypeScript, Python, AWS**, and I'm always eager to learn and explore new technologies. My toolbox is stocked with essential tools like **Node.js, React, Next.js, Tailwind CSS, AWS, Redis, Elasticsearch, Jest, Docker, MySQL, and Postgres**. When it comes to architecture, I lean towards **microservices, event-driven architectures, and design system patterns**.
+I'm fluent in **TypeScript, Python, AWS**, and I'm always eager to learn and explore new technologies. My toolbox is stocked with essential tools like **Node.js, React, Next.js, TailwindCSS, AWS, Redis, Elasticsearch, Jest, Docker, MySQL, Postgres, and serverless technologies.**. When it comes to architecture, I lean towards **microservices, event-driven architectures, and design system patterns**.
 
 Beyond code, I'm a **strong advocate for open source** and actively contribute to various projects. I believe in the power of community collaboration and sharing knowledge to push the boundaries of what's possible.
 
