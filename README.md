@@ -2,7 +2,7 @@
 
 <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50" alt="Waving emoji">
 
-**Software Engineer | Cloud Security | DevOps | AI Enthusiast**
+**Software Engineer | Cloud Security | CNAPP | DevOps | AI Enthusiast**
 
 <div style="display: flex; flex-direction: row; justify-content: space-between; align-items: center;">
   <img src="https://c.tenor.com/N-fJ0Azh_ykAAAAM/cat-computer.gif" width="230" alt="Cat coding gif">
