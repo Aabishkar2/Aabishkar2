@@ -21,8 +21,6 @@ I'm Aabishkar, a **passionate software engineer with 6+ years of experience** bu
 
 I'm fluent in **TypeScript, Python, AWS**, and I'm always eager to learn and explore new technologies. My toolbox is stocked with essential tools like **Node.js, React, Next.js, TailwindCSS, AWS, Redis, Elasticsearch, Jest, Docker, MySQL, Postgres, and serverless technologies.**. When it comes to architecture, I lean towards **microservices, event-driven architectures, and design system patterns**.
 
-Beyond code, I'm a **strong advocate for open source** and actively contribute to various projects. I believe in the power of community collaboration and sharing knowledge to push the boundaries of what's possible.
-
 ---
 
 ## Connect with me! 
